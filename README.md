@@ -7,8 +7,6 @@ You can run chmod +x *.sh
 
 for it to run via sudo
 
-also make sure to make all your paths accessible via all machines.. I read somewhere in your code "G:/...." < remove this asap and make it a relative path
-
 How to run this?
 Just run:
 
